@@ -1,2 +1,4 @@
-# -PetLovers
-App gồm các hoạt động liên quan đến sở thích nuôi thú cưng và chăm sóc thú cưng
+# petlovers
+Pet Lovers - A Social Network for Pet Owners
+
+VApp Team - HCMUS
